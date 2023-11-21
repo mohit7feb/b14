@@ -67,6 +67,7 @@ h2.section-title {
 
 .close-icon img {
     width: 30px;
+    margin-right: -25px;
 }
 
 .section-title {
